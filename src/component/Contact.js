@@ -1,7 +1,7 @@
 import React from "react";
 
 function Contact() {
-  return <h1>Contact.js</h1>;
+  return <h1>This is contact address</h1>;
 }
 
 export default Contact;
